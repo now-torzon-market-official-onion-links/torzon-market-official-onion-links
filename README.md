@@ -39,3 +39,5 @@ The purpose of this platform is educational, providing insights into the darkweb
 ### Disclaimer:
 
 This is for education and not to promote illegal activity.
+
+Update: link is live and functioning properly
